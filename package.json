@@ -15,6 +15,17 @@
       "typescript": "^5.4.0",
       "@types/node": "^20.4.0"
     },
+    "keywords": [
+    "nextjs",
+    "cli",
+    "audit",
+    "ssr",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markgrama/next-audit-wrapper"
+  },
     "author": "Mark Grama <hello@markgrama.dev>",
     "license": "MIT"
   }
