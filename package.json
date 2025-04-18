@@ -22,11 +22,15 @@
     "ssr",
     "wrapper"
   ],
-  "repository": {
+    "homepage": "https://github.com/markgrama/next-audit",
+    "repository": {
     "type": "git",
     "url": "https://github.com/markgrama/next-audit-wrapper"
-  },
+    },
+    "bugs": {
+    "url": "https://github.com/markgrama/next-audit/issues"
+    },
     "author": "Mark Grama <hello@markgrama.dev>",
     "license": "MIT"
-  }
+}
   
