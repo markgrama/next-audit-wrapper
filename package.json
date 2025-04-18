@@ -1,36 +1,38 @@
 {
     "name": "next-audit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "bin": {
-      "next-audit": "./dist/index.js"
+        "next-audit": "./dist/index.js"
     },
     "scripts": {
-      "build": "tsc"
+        "build": "tsc"
     },
-    "files": ["dist", "README.md"],
+    "files": [
+        "dist",
+        "README.md"
+    ],
     "dependencies": {
-      "@markgrama/next-audit": "^1.0.0"
+        "@markgrama/next-audit": "^1.0.0"
     },
     "devDependencies": {
-      "typescript": "^5.4.0",
-      "@types/node": "^20.4.0"
+        "typescript": "^5.4.0",
+        "@types/node": "^20.4.0"
     },
     "keywords": [
-    "nextjs",
-    "cli",
-    "audit",
-    "ssr",
-    "wrapper"
-  ],
+        "nextjs",
+        "cli",
+        "audit",
+        "ssr",
+        "wrapper"
+    ],
     "homepage": "https://github.com/markgrama/next-audit",
     "repository": {
-    "type": "git",
-    "url": "https://github.com/markgrama/next-audit-wrapper"
+        "type": "git",
+        "url": "https://github.com/markgrama/next-audit-wrapper"
     },
     "bugs": {
-    "url": "https://github.com/markgrama/next-audit/issues"
+        "url": "https://github.com/markgrama/next-audit/issues"
     },
     "author": "Mark Grama <hello@markgrama.dev>",
     "license": "MIT"
 }
-  
